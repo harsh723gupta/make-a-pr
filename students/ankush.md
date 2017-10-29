@@ -1,10 +1,9 @@
-#Ankush Garg
+## Ankush Garg
 
-###College
-MSIT
+## College :MSIT
 
 ###Year
-First
+First year
 
 ###Hobbies
 -Playing Guitar
